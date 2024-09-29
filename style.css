@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(94, 82, 82);
+    margin: 150px 500px;
+}
+input[type="button"]{
+    background-color: white;
+    width: 80%;
+    color: black;
+    overflow: hidden;
+    margin: 10px 26px;
+    padding: 5px 5px;
+    font-size: 17px;    
+}
+
+input[type="text"]{
+    background-color:beige;
+    width: 110%;
+    color: black;
+    margin: 1px 35px;
+    padding: 8px
+}
+.title{
+    background-color: white;
+    color: black;
+    font-size: 30px;
+    width: 204px;
+    display: flex;
+    justify-content: center;
+    margin: 10px 99px;
+}
+.top{
+    border: 2px solid black;
+    width: 385px;
+    height: 340px;
+    background-color: black;
+    border-radius:8px ;
+    box-shadow: 0 0 5px 5px;
+}
+#clr{
+   margin: 1px 30px;
+   padding: 5px 6px;
+   border-radius: 100%;
+   background-color: white;
+   color: black;
+}
